@@ -1,14 +1,15 @@
-📘Proyecto realizado con Java, Maven, Selenium, Serenity, Cucumber y Junit.
+📘Proyecto realizado con Java, Maven, Selenium, Serenity, Cucumber y Junit. (Valida que no estes usando vpn o proxy para que automaticamente se pueda descargar las dependencias del POM.xml.)
 
 📘Patron de Diseño: POM-SerenityBDD   
 
-📝Vesion JDK utilizada:
+📝Vesion JDK necesario:
 JDK 17.0.8
 Link: https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html
 
-📝Version Chromedriver:
+📝Version Chromedriver necesario:
 124.0.6367.201 (r1274542)
 Link: https://googlechromelabs.github.io/chrome-for-testing/#stable
+Descargar, pegar y reemplazar en la ruta predeterminada C:\Users\$User$\.cache\selenium\chromedriver\win32\"laversionquetengas"\
 
 El proyecto está redactado en gherkin utilizando cucumber y genera nombres de usuario diferentes en cada ejecución.
 
