@@ -1,3 +1,5 @@
+El proyecto está redactado en gherkin, genera nombres de usuario diferentes en cada ejecución y se genera un reporte desde maven Goal(mvn serenity:aggregate)
+
 📘Proyecto realizado con Java, Maven, Selenium, Serenity, Cucumber y Junit.
 
 📘Patron de Diseño: POM-SerenityBDD   
